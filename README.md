@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello there 👋
+
+Say hi to me at satya@evvy.com
 
 <!--
 **satya-evvy/satya-evvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
